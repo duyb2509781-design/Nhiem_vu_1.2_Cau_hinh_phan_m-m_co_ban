@@ -5,11 +5,11 @@
 “Hướng dẫn chi tiết cài đặt Notepad++ trên Windows 10 và cấu hình để viết code Python.”
 
 **Các bước thực hiện:**
-Bước 1: Tải về Notepad++
+**Bước 1: Tải về Notepad++**
 - Truy cập trang web chính thức của Notepad++: https://notepad-plus-plus.org/downloads/
 - Chọn phiên bản mới nhất (ví dụ: v8.x.x) và nhấn vào Download.
 - Chọn loại file Installer (tệp .exe - đề xuất) để tải về.
-Bước 2: Tiến hành Cài đặt
+**Bước 2: Tiến hành Cài đặt**
 - Nhấp đúp vào file cài đặt (.exe) vừa tải về để bắt đầu.
 - Chọn ngôn ngữ cài đặt (thường là Vietnamese hoặc English) và nhấn OK.
 - Cửa sổ cài đặt hiện ra, nhấn Next.
